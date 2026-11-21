@@ -18,7 +18,7 @@ A brand publishes its products once: texts, prices, sizes, materials and images.
 | [**node-ts**](https://github.com/openbrandexchange/node-ts) | Brand/retailer portal in TypeScript: Cloudflare Workers or Bun |
 | [**admin-ui**](https://github.com/openbrandexchange/admin-ui) | The web interface shared by all portals |
 
-Current version: **0.3.0**. Try the [online checker](https://openbrandexchange.com/en/developers/) on your own portal.
+Current version: **0.3.1**. Try the [online checker](https://openbrandexchange.com/en/developers/) on your own portal.
 
 ## Get involved
 
