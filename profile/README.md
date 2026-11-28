@@ -1,6 +1,6 @@
 <img src="https://openbrandexchange.com/favicon.svg" width="56" alt="" align="right">
 
-# Open Brand Exchange
+# Open Brand Exchange (in draft)
 
 **An open standard for exchanging product content between brands and retailers.**
 A brand publishes its products once: texts, prices, sizes, materials and images. Every retailer pulls them from the brand's own portal in the same format. No vendor lock-in, no middleman, free to implement.
